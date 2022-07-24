@@ -1,0 +1,5 @@
+C:\Users\user\source\repos\GeekSeat_AF\WitchSaga\bin\Debug\WitchSaga.dll
+C:\Users\user\source\repos\GeekSeat_AF\WitchSaga\bin\Debug\WitchSaga.pdb
+C:\Users\user\source\repos\GeekSeat_AF\WitchSaga\obj\Debug\WitchSaga.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\GeekSeat_AF\WitchSaga\obj\Debug\WitchSaga.dll
+C:\Users\user\source\repos\GeekSeat_AF\WitchSaga\obj\Debug\WitchSaga.pdb

@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\GeekSeat_AF\GeekSeat_AF\bin\Debug\GeekSeat_AF.exe.config
+C:\Users\user\source\repos\GeekSeat_AF\GeekSeat_AF\bin\Debug\GeekSeat_AF.exe
+C:\Users\user\source\repos\GeekSeat_AF\GeekSeat_AF\bin\Debug\GeekSeat_AF.pdb
+C:\Users\user\source\repos\GeekSeat_AF\GeekSeat_AF\obj\Debug\GeekSeat_AF.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\GeekSeat_AF\GeekSeat_AF\obj\Debug\GeekSeat_AF.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\GeekSeat_AF\GeekSeat_AF\obj\Debug\GeekSeat_AF.exe
+C:\Users\user\source\repos\GeekSeat_AF\GeekSeat_AF\obj\Debug\GeekSeat_AF.pdb
+C:\Users\user\source\repos\GeekSeat_AF\GeekSeat_AF\bin\Debug\WitchSaga.dll
+C:\Users\user\source\repos\GeekSeat_AF\GeekSeat_AF\bin\Debug\WitchSaga.pdb
